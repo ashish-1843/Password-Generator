@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ashish-1843/Password-Generator.git/static/css/main.b67e9ffd.css",
-    "main.js": "/ashish-1843/Password-Generator.git/static/js/main.30db93e8.js",
-    "static/js/453.02c29438.chunk.js": "/ashish-1843/Password-Generator.git/static/js/453.02c29438.chunk.js",
-    "static/media/logo.svg": "/ashish-1843/Password-Generator.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ashish-1843/Password-Generator.git/index.html",
-    "main.b67e9ffd.css.map": "/ashish-1843/Password-Generator.git/static/css/main.b67e9ffd.css.map",
-    "main.30db93e8.js.map": "/ashish-1843/Password-Generator.git/static/js/main.30db93e8.js.map",
-    "453.02c29438.chunk.js.map": "/ashish-1843/Password-Generator.git/static/js/453.02c29438.chunk.js.map"
+    "main.css": "/ashish-1843/Weather-App-.git/static/css/main.fbde9a95.css",
+    "main.js": "/ashish-1843/Weather-App-.git/static/js/main.9f7f0c6a.js",
+    "static/js/453.63261c35.chunk.js": "/ashish-1843/Weather-App-.git/static/js/453.63261c35.chunk.js",
+    "static/media/logo.svg": "/ashish-1843/Weather-App-.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ashish-1843/Weather-App-.git/index.html",
+    "main.fbde9a95.css.map": "/ashish-1843/Weather-App-.git/static/css/main.fbde9a95.css.map",
+    "main.9f7f0c6a.js.map": "/ashish-1843/Weather-App-.git/static/js/main.9f7f0c6a.js.map",
+    "453.63261c35.chunk.js.map": "/ashish-1843/Weather-App-.git/static/js/453.63261c35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b67e9ffd.css",
-    "static/js/main.30db93e8.js"
+    "static/css/main.fbde9a95.css",
+    "static/js/main.9f7f0c6a.js"
   ]
 }
