@@ -107,8 +107,8 @@ button:hover{
 }
 
 
-@media (max-width : 500px){
+@media (max-width : 640px){
   .passwordBox{
-    width : 200px;
+    width : 250px;
   }
 }
