@@ -112,7 +112,15 @@ button:hover{
     width : 250px;
   }
 
+  .passwordIn{
+    display : flex;
+  }
+
+  .passwordIn input{
+    flex-basis: 70%;
+  }
+
   .passwordIn button{
-    width : 75px;
+    flex-basis: 30%;
   }
 }
