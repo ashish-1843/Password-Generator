@@ -111,4 +111,8 @@ button:hover{
   .passwordBox{
     width : 250px;
   }
+
+  .passwordIn button{
+    width : 75px;
+  }
 }
