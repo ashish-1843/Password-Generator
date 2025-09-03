@@ -48,7 +48,7 @@ function App() {
 
       <div className='passwordLen'>
         <label>Password length</label>
-        <input type='number' min={10} max={20} value={passwordLen} onChange={(event)=>setPasswordLen(event.target.value)}></input>
+        <input type='number' id="number-len"min={10} max={20} value={passwordLen} onChange={(event)=>setPasswordLen(event.target.value)}></input>
       </div>
 
       <div className='checkBox'>
